@@ -1,5 +1,3 @@
-﻿# Junkies-marketplace
+#Junkies-marketplace 
 
-Tech Stacks - Django/python/HTML/CSS
-
-A marketplace where you can sell or buy items 
+Junkies is a marketplace where you can sell or buy items. It is built using Django, Python, HTML, and CSS.
